@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Tooling
+.gemini/
+.vscode/
+.idea/
+
+# Pacman specific (if any large data files are generated)
+# *.log
